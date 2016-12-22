@@ -1,0 +1,3 @@
+# static ipv4 assignments
+
+dhcp-host=34:97:F6:DA:E8:45, macpro, 10.42.0.10

@@ -1,0 +1,5 @@
+# lan
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="b8:97:5a:0d:dd:d0", NAME=="eth0"
+
+# usb rndis
+SUBSYSTEM=="net", ACTION=="add", ATTR{address}=="66:ba:ca:23:d8:56", NAME=="usb0"
